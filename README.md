@@ -19,7 +19,7 @@ i code for fun
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" width="60" height="60" title="Lua"/>
   &nbsp;&nbsp;
-   <img src="https://en.wikipedia.org/wiki/File:Gnu-bash-logo.svg" alt="Bash" width="60" height="60" title="Lua"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="Bash" width="60" height="60" title="Bash"/>
 </p>
 
 other random stuff i touch:  
