@@ -18,6 +18,8 @@ i code for fun
   <img src="https://banner2.cleanpng.com/20180706/vef/aaxxo5yil.webp" alt="Python" width="60" height="60" title="Python"/>
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" width="60" height="60" title="Lua"/>
+  &nbsp;&nbsp;
+   <img src="https://e7.pngegg.com/pngimages/48/567/png-clipart-bash-shell-script-command-line-interface-z-shell-shell-rectangle-logo-thumbnail.png" alt="Bash" width="60" height="60" title="Lua"/>
 </p>
 
 other random stuff i touch:  
