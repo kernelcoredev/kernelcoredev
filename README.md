@@ -11,7 +11,7 @@ i code for fun
 ### languages & tools
 
 <p align="center">
-  <img src="https://cdn.imgbin.com/19/5/9/imgbin-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-x2vvzpHKBmQaYkXV2vQ67GPY7.jpg" alt="C#" width="60" height="60" title="C#"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" alt="C#" width="60" height="60" title="C#"/>
   &nbsp;&nbsp;
   <img src="https://banner2.cleanpng.com/20180917/skq/kisspng-javascript-logo-product-design-brand-1713939998436.webp" alt="JavaScript" width="60" height="60" title="JavaScript"/>
   &nbsp;&nbsp;
