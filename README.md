@@ -1,18 +1,27 @@
 hiya! 👋  
-i’m KCdev — or whatever nickname you find easier 😅  
-i code stuff because... well, it’s fun (and occasionally for snacks 💰)
+i’m KCdev — or whatever nickname you vibe with 😅  
+i code for fun (and maybe snacks 💸)
 
-**age:** 13
-**status:** not banned (yet 😈)  
-**random fact:** I work faster at night/midnight
+**age:** 13  
+**status:** not banned   
+**random fact:** i work better at midnight/night
 
 ---
 
 ### 💻 languages & tools
-(i poke around with these sometimes)
 
-`python` `javascript` `html` `css`  
-maybe some `C#` or `lua` if i’m feeling brave 👾  
+<p align="center">
+  <img src="https://cdn.imgbin.com/19/5/9/imgbin-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-x2vvzpHKBmQaYkXV2vQ67GPY7.jpg" alt="C#" width="60" height="60" title="C#"/>
+  &nbsp;&nbsp;
+  <img src="https://banner2.cleanpng.com/20180917/skq/kisspng-javascript-logo-product-design-brand-1713939998436.webp" alt="JavaScript" width="60" height="60" title="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://banner2.cleanpng.com/20180706/vef/aaxxo5yil.webp" alt="Python" width="60" height="60" title="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" width="60" height="60" title="Lua"/>
+</p>
+
+🧠 other random stuff i touch:  
+`html` `css` `json` maybe `chaos`
 
 ---
 
