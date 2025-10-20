@@ -15,7 +15,7 @@ i code for fun
   &nbsp;&nbsp;
   <img src="https://banner2.cleanpng.com/20180917/skq/kisspng-javascript-logo-product-design-brand-1713939998436.webp" alt="JavaScript" width="60" height="60" title="JavaScript"/>
   &nbsp;&nbsp;
-  <img src="https://banner2.cleanpng.com/20180706/vef/aaxxo5yil.webp" alt="Python" width="60" height="60" title="Python"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="60" height="60" title="Python"/>
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" width="60" height="60" title="Lua"/>
   &nbsp;&nbsp;
