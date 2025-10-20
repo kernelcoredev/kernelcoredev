@@ -26,7 +26,7 @@ i code for fun (and maybe snacks 💸)
 ---
 
 ### 📊 github stats
-![KCdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=KCdev&show_icons=true&theme=tokyonight)
+![KCdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=kernelcoredev&show_icons=true&theme=tokyonight)
 
 ---
 
