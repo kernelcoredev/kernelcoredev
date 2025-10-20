@@ -13,7 +13,7 @@ i code for fun
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" alt="C#" width="60" height="60" title="C#"/>
   &nbsp;&nbsp;
-  <img src="https://tse1.mm.bing.net/th/id/OIP.fGpgk9AVa9fKPUnSMhfLCAHaFj?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" alt="JavaScript" width="60" height="60" title="JavaScript"/>
+  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/javascript-logo.png" alt="JavaScript" width="60" height="60" title="JavaScript"/>
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="60" height="60" title="Python"/>
   &nbsp;&nbsp;
